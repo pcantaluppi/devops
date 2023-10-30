@@ -22,4 +22,5 @@ https://code.visualstudio.com/docs/languages/dotnet
 
 - `dotnet restore`
 - `dotnet build`
+- `dotnet test`
 - `dotnet run`
