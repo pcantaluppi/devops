@@ -1,7 +1,6 @@
 # DevOps Playground
 
-ASP.NET Core MVC app with database, UI tests and ARM template
-for Deployment with CI/CD pipelines using Azure DevOps
+ASP.NET Core app with database, ui tests and eployment with ci/cd pipelines using Azure DevOps
 
 ## Tools
 
